@@ -15,7 +15,7 @@ Mi enfoque combina **tecnología de punta, automatización inteligente y arquite
 
 ---
 
-# 👋 Hi, I’m Viggo (viggo2040)
+# 👋 Hi, I’m David Reffer
 
 Software Engineer specialized in designing and developing advanced systems for **financial, trading, and monitoring operations**.  
 My work combines **cutting-edge technologies, intelligent automation, and full-stack architecture**, with ongoing projects in **cybersecurity, data visualization, applied AI, and ISO/NIST maturity dashboards**.
