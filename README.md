@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# 👋 Hola, soy Viggo (viggo2040)  
+# 👋 Hola, soy David Reffer
 
 Ingeniero de Software especializado en el diseño y desarrollo de sistemas avanzados para **operaciones financieras, comerciales y de monitoreo**.  
 Mi enfoque combina **tecnología de punta, automatización inteligente y arquitectura full-stack**, con proyectos que abarcan **ciberseguridad, visualización de datos, IA aplicada y dashboards de madurez ISO/NIST**.
