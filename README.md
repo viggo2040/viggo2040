@@ -1,8 +1,32 @@
 ### Hi there 👋
 
-#### I'm a software engineer who specializes in developing cutting-edge systems for financial and trading exportation operations. 
+# 👋 Hola, soy Viggo (viggo2040)  
 
-I have expertise in utilizing top-tier technologies, including machine learning, to ensure that my software is both state-of-the-art and effective. 
-Currently, I am working on several exciting projects that will revolutionize the way businesses handle their financial operations.
+Ingeniero de Software especializado en el diseño y desarrollo de sistemas avanzados para **operaciones financieras, comerciales y de monitoreo**.  
+Mi enfoque combina **tecnología de punta, automatización inteligente y arquitectura full-stack**, con proyectos que abarcan **ciberseguridad, visualización de datos, IA aplicada y dashboards de madurez ISO/NIST**.
 
-My expertise lies in full-stack web development, with a strong command of several programming languages including C#, JavaScript, HTML, and Python. I have hands-on experience in building responsive and dynamic web applications, and I am always keeping up-to-date with the latest trends and techniques in web development. Whether it's creating clean and intuitive user interfaces or optimizing website performance, I am dedicated to delivering high-quality results that meet the needs of clients and users alike.
+## 💡 Áreas de especialización
+- Desarrollo **Full-Stack** (C#, JavaScript, Python, PHP)
+- **Arquitecturas modulares y APIs REST**
+- **Machine Learning** y analítica aplicada
+- **Ciberseguridad y automatización de monitoreo**
+- **Optimización de interfaces y UX técnico**
+- **Integración de procesos financieros y de riesgo**
+
+---
+
+# 👋 Hi, I’m Viggo (viggo2040)
+
+Software Engineer specialized in designing and developing advanced systems for **financial, trading, and monitoring operations**.  
+My work combines **cutting-edge technologies, intelligent automation, and full-stack architecture**, with ongoing projects in **cybersecurity, data visualization, applied AI, and ISO/NIST maturity dashboards**.
+
+## 💡 Expertise
+- **Full-Stack Development** (C#, JavaScript, Python, PHP)
+- **Modular architectures & REST APIs**
+- **Machine Learning** and applied analytics
+- **Cybersecurity & automated monitoring**
+- **Performance-driven UX and interfaces**
+- **Process integration for financial and risk systems**
+
+
+🧠 _“La ingeniería de software no es solo código; es diseño, análisis, control y evolución.”_
